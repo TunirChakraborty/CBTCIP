@@ -1,4 +1,4 @@
-# CBTCIP-Iris-Flower-Classification
+# Iris-Flower-Classification
 
 Iris Flower Classification:-
 This project aims to classify iris flowers into three species (Setosa, Versicolor, and Virginica) based on their sepal and petal dimensions. It utilizes machine learning techniques to build a predictive model from the famous Iris dataset.
